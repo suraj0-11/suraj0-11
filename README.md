@@ -1,4 +1,4 @@
-<h2 align="center" style="background-color:powderblue;" >Started to Learn Some Tech Stuff</h2>
+<h2 style="background-color:powderblue;" >Started to Learn Some Tech Stuff</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj0-11&label=Profile%20views&color=0e75b6&style=flat" alt="suraj0-11" /> </p>
 
