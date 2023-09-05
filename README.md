@@ -1,5 +1,4 @@
 <h2 align="center" >Started to Learn Some Tech Stuff</h2>
-![gojo](https://gifyu.com/image/SgA96)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj0-11&label=Profile%20views&color=0e75b6&style=flat" alt="suraj0-11" /> </p>
 
 <h3 align="left">Connect with me:</h3>
