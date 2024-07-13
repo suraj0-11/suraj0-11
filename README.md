@@ -1,4 +1,9 @@
-<h2 align="center" >Started to Learn Some Tech Stuff</h2>
+<p align="center">
+  <a href="https://www.edisonlee55.com"><img src="kita-ikuyo-rap.webp" alt="Banner"></a>
+</p>
+
+<h1 align="center">Hi, I'm <a href="https://www.google.com">Suraj aka Krispy</a>!</h1>
+<h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj0-11&label=Profile%20views&color=0e75b6&style=flat" alt="suraj0-11" /> </p>
 
 <h3 align="left">Connect with me:</h3>
