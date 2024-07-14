@@ -1,5 +1,6 @@
-
-![spotify-github-profile](default.svg)
+<div align="center">
+    <img src="default.svg" alt="Spotify GitHub Profile">
+</div>
 
 <p align="center">
   <a href="https://www.x.com"><img src="kita-ikuyo-rap.webp" alt="Banner"></a>
