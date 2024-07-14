@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.edisonlee55.com"><img src="kita-ikuyo-rap.webp" alt="Banner"></a>
+  <a href="https://www.x.com"><img src="kita-ikuyo-rap.webp" alt="Banner"></a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://www.google.com">Suraj aka Krispy</a>!</h1>
