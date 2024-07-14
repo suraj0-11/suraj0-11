@@ -1,3 +1,5 @@
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=mbh59xw9l4qw4pns3nnky0y9f&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=mbh59xw9l4qw4pns3nnky0y9f&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)]]
+
 <p align="center">
   <a href="https://www.x.com"><img src="kita-ikuyo-rap.webp" alt="Banner"></a>
 </p>
