@@ -1,6 +1,4 @@
-<div align="center">
-    <img src="default.svg" alt="Spotify GitHub Profile">
-</div>
+
 
 
 <h1 align="center">Hi, I'm <a href="https://www.google.com">Suraj aka Krispy</a>!</h1>
