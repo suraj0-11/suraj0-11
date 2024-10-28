@@ -75,8 +75,6 @@
 
 ### 🔥 Recent Contributions:
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=suraj0-11&theme=react-dark" alt="Suraj's Activity Graph" width="80%" />
-</p>
+[![Suraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suraj0-11&theme=github-compact)](https://github.com/suraj0-11/github-readme-activity-graph)
 
 ---
