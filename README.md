@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://www.google.com">Suraj (aka Krispy)!</a> 👋</h1>
+<h1 align="center">Hi, I'm <a href="https://suraj-portfolio-gilt.vercel.app/">Suraj (aka Krispy)!</a> 👋</h1>
 <h3 align="center">Welcome to my GitHub profile~ OwO</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 ---
 
 ### 💫 About Me:
-- 🌱 **Currently Learning**: Exploring new technologies and enhancing my skills in **full-stack development**.
+- 🌱 **Currently Learning**: Exploring new technologies and enhancing my skills in **Automation and FullStack developments**.
 - 🤝 **Open to Collaborate**: Looking to work on open-source projects and innovative web applications.
 - 💼 **Tech Enthusiast**: Quick to adapt to new tools, languages, and frameworks. Specializes in problem-solving and effective time management.
 
@@ -42,7 +42,13 @@
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
+  <a href="https://www.heroku.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/heroku.png" alt="Heroku" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>
+  <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/></a>
+  <a href="https://www.unix.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Unix" width="40" height="40"/></a>
 </p>
+
 
 ---
 
@@ -70,7 +76,7 @@
 ### 🔥 Recent Contributions:
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=suraj0-11&theme=redical&hide_border=true" alt="Suraj's Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=suraj0-11&theme=react-dark" alt="Suraj's Activity Graph" width="80%" />
 </p>
 
 ---
