@@ -47,14 +47,30 @@
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>
   <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/></a>
   <a href="https://www.unix.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Unix" width="40" height="40"/></a>
-  ![Kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png)
-![Docker](https://img.icons8.com/color/48/000000/docker.png)
-![Elasticsearch](https://img.icons8.com/color/48/000000/elasticsearch.png)
-![Jira](https://img.icons8.com/color/48/000000/jira.png)
-![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png)
-![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)
-![Canva](https://img.icons8.com/color/48/000000/canva.png)
-![KineMaster](https://img.icons8.com/color/48/000000/kinemaster.png)
+<a href="https://kubernetes.io/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="40" height="40"/>
+</a>
+<a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
+</a>
+<a href="https://www.elastic.co/elasticsearch/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/elasticsearch.png" alt="Elasticsearch" width="40" height="40"/>
+</a>
+<a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira" width="40" height="40"/>
+</a>
+<a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="40" height="40"/>
+</a>
+<a href="https://github.com/" target="_blank">
+    <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" width="40" height="40"/>
+</a>
+<a href="https://www.canva.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" width="40" height="40"/>
+</a>
+<a href="https://www.kinemaster.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/kinemaster.png" alt="KineMaster" width="40" height="40"/>
+</a>
 
 </p>
 
