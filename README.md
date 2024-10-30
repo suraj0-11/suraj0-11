@@ -47,6 +47,15 @@
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>
   <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/></a>
   <a href="https://www.unix.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Unix" width="40" height="40"/></a>
+  ![Kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png)
+![Docker](https://img.icons8.com/color/48/000000/docker.png)
+![Elasticsearch](https://img.icons8.com/color/48/000000/elasticsearch.png)
+![Jira](https://img.icons8.com/color/48/000000/jira.png)
+![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png)
+![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)
+![Canva](https://img.icons8.com/color/48/000000/canva.png)
+![KineMaster](https://img.icons8.com/color/48/000000/kinemaster.png)
+
 </p>
 
 
