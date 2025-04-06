@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://suraj-portfolio-gilt.vercel.app/">Suraj (aka Krispy)!</a> 👋</h1>
+<h1 align="center">Hi, I'm <a href="https://suraj-s.vercel.app/">Suraj (aka Krispy)!</a> 👋</h1>
 <h3 align="center">Welcome to my GitHub profile~ OwO</h3>
 
 <p align="center">
